@@ -23,6 +23,7 @@ if ($_POST) {
                     <option value="2">Resta</option>
                     <option value="3">División</option>
                     <option value=4>Multiplicación</option>
+                    <option value=4>Exponente</option>
                 </select>
                 <small id="Num2Help" class="form-text text-muted">Debe ingresar un numero sin puntos ni tildes</small>
             </div>
