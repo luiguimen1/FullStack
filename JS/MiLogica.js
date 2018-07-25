@@ -1,3 +1,8 @@
+/**
+ * metodo que protege el codigo principal
+ * @type type
+ */
+
 $(document).ready(function () {
     function miAjax(url, parametros, quehacerdepues) {
         $.ajax({
