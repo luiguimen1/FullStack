@@ -1,3 +1,4 @@
+/* klsdgfsdklgh */
 $(document).ready(function () {
     function miAjax(url, parametros, quehacerdepues) {
         $.ajax({
